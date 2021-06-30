@@ -1,0 +1,22 @@
+{
+  "name": "humans_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-sass": "4.1.1",
+    "gulp-sourcemaps": "^3.0.0"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.3",
+    "gulp-rename": "^2.0.0"
+  }
+}
